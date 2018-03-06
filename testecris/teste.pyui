@@ -1,0 +1,52 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 104}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "textfield1",
+          "frame" : "{{20, 104}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "628F4102-B04F-4030-84D3-A09BC700C398",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{78, 161}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "buttonClick",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Button",
+          "uuid" : "4CC96EB4-36A4-436C-AA52-219ECA4293EA",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
