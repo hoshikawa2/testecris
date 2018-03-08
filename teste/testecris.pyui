@@ -8,14 +8,14 @@
         "frame" : "{{20, 104}, {200, 32}}",
         "class" : "TextField",
         "attributes" : {
-          "name" : "textfield1",
+          "font_size" : 17,
           "frame" : "{{20, 104}, {200, 32}}",
           "spellchecking_type" : "default",
           "class" : "TextField",
           "uuid" : "28E31E47-DE42-4925-A18A-1B3591716F8F",
           "alignment" : "left",
           "autocorrection_type" : "default",
-          "font_size" : 17,
+          "name" : "textfield1",
           "font_name" : "<System>"
         },
         "selected" : false
@@ -38,12 +38,13 @@
         "selected" : false
       }
     ],
-    "frame" : "{{0, 0}, {240, 240}}",
+    "frame" : "{{0, 0}, {320, 480}}",
     "class" : "View",
     "attributes" : {
-      "enabled" : true,
       "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "enabled" : true,
       "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "custom_class" : "",
       "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
       "flex" : ""
     },
