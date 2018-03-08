@@ -1,0 +1,49 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{33, 59}, {312, 49}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button1Click",
+          "frame" : "{{145, 267}, {80, 32}}",
+          "title" : "Button",
+          "uuid" : "927430E3-5973-4081-888F-24247A3FE07E",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{40, 131}, {305, 44}}",
+        "class" : "Button",
+        "attributes" : {
+          "uuid" : "3744A846-9644-4D4F-8B5B-BCD8FA4C2905",
+          "frame" : "{{145, 267}, {80, 32}}",
+          "title" : "Button",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {369, 565}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
